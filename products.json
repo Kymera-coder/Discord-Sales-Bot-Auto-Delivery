@@ -1,0 +1,9 @@
+{
+    "PremiumSoftware": {
+        "price": 50,
+        "keys": [
+            "ABC-123-XYZ",
+            "DEF-456-XYZ"
+        ]
+    }
+}
